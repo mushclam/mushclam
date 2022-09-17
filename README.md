@@ -1,4 +1,5 @@
-### Hi there 👋
+# Jinwook Park
+AI/NLP Ph. D. student in AI graduate shcool @ GIST
 
 <!--
 **mushclam/mushclam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
